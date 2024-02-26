@@ -57,3 +57,9 @@ struct ContentView: View {
     ContentView()
 }
 ```
+
+## Media
+
+![AvatarViewList](https://github.com/ValeriyKliuk/AvatarKit/assets/750868/68209b19-8079-4d85-9efe-37167c6833f1)
+
+![AvatarViewProfile](https://github.com/ValeriyKliuk/AvatarKit/assets/750868/755a4437-4107-4657-9504-7e6999415e87)

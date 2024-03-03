@@ -113,8 +113,9 @@ public struct DefaultAvatarStyle: AvatarStyle {
                 configuration.subTitle
                     .font(.subheadline)
             }
-            Spacer()
         }
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .contentShape(Rectangle())
     }
 }
 
@@ -133,6 +134,7 @@ public struct ProfileAvatarStyle: AvatarStyle {
             configuration.subTitle
                 .font(.subheadline)
         }
+        .contentShape(Rectangle())
     }
 }
 

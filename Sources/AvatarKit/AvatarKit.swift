@@ -7,7 +7,7 @@ import SwiftUI
 public struct AvatarView_Library: LibraryContentProvider {
     public var views: [LibraryItem] {
         [
-            LibraryItem(AvatarView(title: "Abba", subTitle: "pop", imageName: "AlbumImage"), title: "AvatarView", category: .control)
+            LibraryItem(AvatarView(title: "Title", subTitle: "SubTitle", imageName: "AssestsImageName"), title: "AvatarView", category: .control)
         ]
     }
     

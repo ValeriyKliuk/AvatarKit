@@ -1,6 +1,7 @@
 # AvatarKit
 
 ## An example of the `AvatarView` from [Building Reusable SwiftUI Components](https://www.youtube.com/watch?v=YjSxPxT5V40) by _Peter Friese_
+https://peterfriese.github.io/Building-SwiftUI-Components-Tutorial/tutorials/tutorial-table-of-contents/
 
 ## Installation
 
